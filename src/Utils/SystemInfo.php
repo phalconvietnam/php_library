@@ -1,6 +1,5 @@
 <?php
 namespace Phalconvietnam\Utils;
-
 class SystemInfo
 {
     /**
