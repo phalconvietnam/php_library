@@ -1,0 +1,14 @@
+{
+    "name": "phalconvietnam/phpdevkit",
+    "description": "Php development utility tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Viet Dev",
+            "email": "phalconvietnam@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
