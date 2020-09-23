@@ -1,5 +1,6 @@
 <?php
 namespace Phalconvietnam\Utils;
+
 class FilterText {
     function FilterText($str, $limit, $end_char = '&#8230;') {
         $str = strip_tags($str);
