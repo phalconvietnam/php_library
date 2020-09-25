@@ -1,5 +1,5 @@
 {
-    "name": "phalconvietnam/phpdevkit",
+    "name": "phalconvietnam/php_library",
     "description": "Php development utility tools",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Phalconvietnam\\": "src/"
+            "Phalconvietnam\\Utils\\": "src/"
         }
     }	
 }
